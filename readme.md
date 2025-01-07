@@ -21,3 +21,9 @@ Usage:
 - Modify the `url` variable to change the content encoded in the QR code.
 - Adjust the `basewidth` variable to change the size of the logo.
 - Change the `QRcolor` variable to customize the QR code color.
+
+
+example:
+
+<img src="1000_F_555357467_E6zIl0PN50coOmhdK4ARfUeZmc22XfKO.jpg" width="40%" />  <img src="gfg_QR.png" width="40%"/>
+ 
