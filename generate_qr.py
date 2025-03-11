@@ -4,7 +4,7 @@ from PIL import Image
 
 # taking image which user wants 
 # in the QR code center
-Logo_link = '1000_F_555357467_E6zIl0PN50coOmhdK4ARfUeZmc22XfKO.jpg'
+Logo_link = 'images.jpeg'
 
 logo = Image.open(Logo_link)
 
@@ -20,7 +20,7 @@ QRcode = qrcode.QRCode(
 )
 
 # taking url or text
-url = 'https://tharakauj.github.io/welcome-24/'
+url = 'https://tharakauj.github.io/WIFI-robot-car/interface/'
 
 # adding URL or text to QRcode
 QRcode.add_data(url)
